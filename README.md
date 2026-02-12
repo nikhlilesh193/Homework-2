@@ -1,5 +1,4 @@
-# CS5760 – Natural Language Processing  
-## Homework 2  
+ ## Homework 2  
 
 **Student:** Nikhilesh Katakam  
 **700#: 700772365
